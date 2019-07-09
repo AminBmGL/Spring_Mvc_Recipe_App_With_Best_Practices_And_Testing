@@ -18,6 +18,7 @@ import insat.gl.recipies.commands.RecipeCommand;
 import insat.gl.recipies.exceptions.NotFoundException;
 import insat.gl.recipies.services.RecipeService;
 import lombok.extern.slf4j.Slf4j;
+
 @Slf4j
 @Controller
 public class RecipeController {
